@@ -1,0 +1,27 @@
+ li{
+    font-size: 25px;
+    font-family: Verdana;
+}
+
+.bloquex p:hover  {
+    color: blue;
+    }
+
+    h1{
+        font-family: 'Sansita Swashed', cursive;
+    }
+
+    h2{
+        font-size: 25px;
+        font-family: 'Sansita Swashed', cursive;
+    }
+
+    img{
+        border-width: 5px;
+        border-style: solid;
+        border-color: orange;
+    }
+
+    body{
+        background-color:rgb(230, 255, 223);
+    }
